@@ -28,7 +28,7 @@ You can install the required packages using pip:
 
 ## Setup
  - Clone the Repository:
-     - git clone <repository-url>
+     - git clone <https://github.com/Saran-Jagadeesan-Uma/LLM-integrated-autonomous-driving>
      - cd LLM-integrated-autonomous-driving-main
 
  - Install the required packages as mentioned above.
